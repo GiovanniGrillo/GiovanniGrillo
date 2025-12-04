@@ -23,5 +23,5 @@ Git • Docker • Linux • VS Code • GitHub Actions
 - Academic and research-oriented assignments  
 
 ## GitHub Stats
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniGrillo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniGrillo&layout=compact&theme=tokyonight)
+![Giovanni's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GiovanniGrillo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GiovanniGrillo&layout=compact&theme=tokyonight)
