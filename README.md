@@ -17,11 +17,6 @@ PyTorch • TensorFlow • Scikit-learn • React • Node.js
 **Tools & Platforms:**  
 Git • Docker • Linux • VS Code • GitHub Actions  
 
-## Featured Projects
-- AI projects focused on Machine Learning and Deep Learning  
-- Full-stack web applications and APIs  
-- Academic and research-oriented assignments  
-
 ## GitHub Stats
 ![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/1-repos-per-language.svg)
