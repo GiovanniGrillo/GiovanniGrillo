@@ -1,21 +1,20 @@
-# Hi, I'm Giovanni
+# Giovanni Grillo
 
-## About Me
-- Computer Science graduate from the University of Turin  
-- Master’s student in Artificial Intelligence  
-- Interested in Machine Learning, Deep Learning, and Intelligent Systems  
-- Constantly exploring new technologies and developing projects  
+Computer Science graduate and MSc student in Artificial Intelligence.
+Focused on Machine Learning, Deep Learning, and intelligent systems. Strong interest in building solid, practical projects.
 
-## Tech Stack
+## Skills
+**Languages**
+- Python, Java, JavaScript, C, SQL
 
-**Languages:**  
-Python • Java • JavaScript • C • SQL  
+**ML / AI**
+- PyTorch, TensorFlow, Scikit-learn
 
-**Frameworks & Libraries:**  
-PyTorch • TensorFlow • Scikit-learn • React • Node.js  
+**Software & Tools**
+- Git, Docker, Linux, VS Code, GitHub Actions
+- Vite, React, Node.js
 
-**Tools & Platforms:**  
-Git • Docker • Linux • VS Code • GitHub Actions  
+---
 
 ## GitHub Stats
 ![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/0-profile-details.svg)
