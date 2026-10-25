@@ -14,6 +14,9 @@ Focused on Machine Learning, Deep Learning, and intelligent systems. Strong inte
 - Git, Docker, Linux, VS Code, GitHub Actions
 - Vite, React, Node.js
 
+## Projects
+- **[pocket-wifi-monitor](https://github.com/GiovanniGrillo/pocket-wifi-monitor)** — turns a spare Android phone with a SIM into a remote mobile-network quality sensor, with a local web dashboard (Python stdlib, vanilla JS, Termux, Tailscale)
+
 ---
 
 ## GitHub Stats
