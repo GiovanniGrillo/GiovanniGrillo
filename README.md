@@ -25,3 +25,7 @@ Focused on Machine Learning, Deep Learning, and intelligent systems. Strong inte
 ![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/2-most-commit-language.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=GiovanniGrillo&theme=tokyonight)
+
+---
+
+<img src="john-cricket.svg" width="28" alt="John Cricket logo" align="left"> &nbsp;My logo: John Cricket.
