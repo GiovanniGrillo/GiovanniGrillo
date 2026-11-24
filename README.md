@@ -1,31 +1,32 @@
-# Giovanni Grillo
+<p align="center">
+  <img src="john-cricket.svg" width="110" alt="John Cricket, my logo">
+</p>
 
-Computer Science graduate and MSc student in Artificial Intelligence.
-Focused on Machine Learning, Deep Learning, and intelligent systems. Strong interest in building solid, practical projects.
+<h1 align="center">Giovanni Grillo</h1>
 
-## Skills
-**Languages**
-- Python, Java, JavaScript, C, SQL
-
-**ML / AI**
-- PyTorch, TensorFlow, Scikit-learn
-
-**Software & Tools**
-- Git, Docker, Linux, VS Code, GitHub Actions
-- Vite, React, Node.js
-- Termux, Tailscale, ADB, Bash scripting
-
-## Projects
-- **[pocket-wifi-monitor](https://github.com/GiovanniGrillo/pocket-wifi-monitor)** — turns a spare Android phone with a SIM into a remote mobile-network quality sensor, with a local web dashboard (Python stdlib, vanilla JS, Termux, Tailscale)
+<p align="center">
+  CS graduate · MSc student in Artificial Intelligence<br>
+  Machine Learning, Deep Learning and solid, practical projects.
+</p>
 
 ---
 
-## GitHub Stats
-![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/GiovanniGrillo/GiovanniGrillo/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=GiovanniGrillo&theme=tokyonight)
+### Projects
 
----
+**[pocket-wifi-monitor](https://github.com/GiovanniGrillo/pocket-wifi-monitor)**
+A spare Android phone with a SIM becomes a remote mobile-network quality sensor, with a local web dashboard.
+<sub>Python · vanilla JS · Termux · Tailscale</sub>
 
-<img src="john-cricket.svg" width="28" alt="John Cricket logo" align="left"> &nbsp;My logo: John Cricket.
+### Stack
+
+**Languages** — Python · Java · JavaScript · C · SQL  
+**ML / AI** — PyTorch · TensorFlow · scikit-learn  
+**Web** — React · Vite · Node.js  
+**Tools** — Git · Docker · Linux · VS Code · GitHub Actions  
+**Mobile & network** — Termux · Tailscale · ADB · Bash
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GiovanniGrillo&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
